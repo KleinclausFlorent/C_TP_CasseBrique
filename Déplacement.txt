@@ -1,0 +1,1 @@
+Utiliser un enum pour gérer le déplacement des raquettes et c'est l'enum qui est modifié par handleevent
